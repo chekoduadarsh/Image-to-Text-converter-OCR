@@ -1,14 +1,6 @@
-import io
-import os
-import os
-from base64 import b64encode
-from os import makedirs
-from os.path import join, basename
-from sys import argv
+
 import json
 import requests
-from google.cloud.vision import types
-from google.cloud.bigquery.client import Client
 import io
 import os
 
