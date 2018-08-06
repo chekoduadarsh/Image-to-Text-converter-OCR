@@ -15,7 +15,6 @@ Required libraries
 # GOOGLE VISION API
 This is the most advanced api availible for optical charecter recognition and it offers other services like face recognition,  logo, and landmark detection, etc. 
 
-https://console.cloud.google.com/apis/api/speech.googleapis.com/overview?project=blind-guidance&duration=PT1H
 
 HOW TO USE IT:-
   1. Create a project in google console and add vision api to it.
